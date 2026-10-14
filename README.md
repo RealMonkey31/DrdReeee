@@ -1,1 +1,7 @@
 # DrdReeee
+GİRİŞ
+SAYI 1 GİR 
+SAYI 2 GİR 
+TOPLA 
+SONUCU EKRANA YAZ 
+BİTİR
